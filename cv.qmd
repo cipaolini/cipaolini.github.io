@@ -1,0 +1,157 @@
+---
+title: "Curriculum Vitae"
+---
+
+<!-- To offer a PDF download: put your CV in this folder as Paolini_CV.pdf, then remove the two comment markers around the next line. -->
+
+<!-- [Download CV (PDF)](Paolini_CV.pdf){.btn .btn-outline-primary} -->
+
+## Education
+
+**PhD in Linguistics** · KU Leuven, Belgium · 2021–2026\
+*How much does meaning matter? A fresh look at grammatical alternations* · defended 23 February 2026\
+Supervisor: Prof. B. Szmrecsanyi · Co-supervisors: Prof. D. Speelman, Prof. H. Cuyckens, Prof. S. Marzo
+
+**MA in Linguistics & Translation (LM-39)** · University of Pisa, Italy · 2017–2020\
+110/110 cum laude · thesis on exemplar-based modeling of Italian derivational meaning
+
+**BA in Digital Humanities (Informatica Umanistica, L-10)** · University of Pisa, Italy · 2013–2016\
+Computational-linguistics track · 110/110
+
+## Teaching & supervision (?)
+
+**Course instructor (deputy ZAP)** · KU Leuven, Faculty of Arts · 2026–2027\
+*Italian Linguistics III* (Leuven, 2026) and *Italian Linguistics II* (Antwerp, 2026–2027)
+
+**Lecturer** · *Italiaans: taal & tekst I* · KU Leuven · 2022–2025
+
+**Guest module** on regression models and statistics for corpus linguistics · advanced MA in Linguistics, KU Leuven · 2023
+
+**Co-supervisor** of two MA theses on vector-space modeling of grammatical alternations · KU Leuven · 2024
+
+## Research experience (?)
+
+**Visiting researcher** · Université de Neuchâtel, Switzerland · 2024\
+Host: Prof. M. Hilpert · FWO short-stay grant K245924N
+
+**Graduate fellow** · ISTI-CNR "A. Faedo", Pisa, Italy · 2021\
+EU H2020 project ARIADNEplus · supervisor: C. Meghini
+
+**Erasmus research trainee** · UiL-OTS, Utrecht University, Netherlands · 2019\
+Supervisor: Prof. D. Paperno
+
+**Erasmus research trainee** · CLLE (UMR 5263), Université Toulouse II, France · 2015\
+Supervisors: F. Montermini, B. Calderone
+
+## Conferences & Workshops
+
+### Peer-reviewed talks
+
+::: pub-entry
+[Verbal complementation after *remember* in semantic vector space]{.pub-title} [Szmrecsanyi, B., **Paolini, C.** & Cuyckens, H.]{.pub-authors} [Conference in honour of Manfred Krug, University of Bamberg, Germany · 2026]{.pub-venue}
+:::
+
+::: pub-entry
+[Predire il presente e il futuro: analizzare la variazione linguistica in italiano con metodi statistici]{.pub-title} [Digesto, S. & **Paolini, C.**]{.pub-authors} [SLI 2025, University of L'Aquila, Italy · 2025]{.pub-venue}
+:::
+
+::: pub-entry
+[L'alternanza progressiva e i suoi registri]{.pub-title} [**Paolini, C.**, Erriu, S. & Marzo, S.]{.pub-authors} [SLI 2025, University of L'Aquila, Italy · 2025]{.pub-venue}
+:::
+
+::: pub-entry
+[Modeling linguistic choices across registers: the future temporal reference alternation in English]{.pub-title} [**Paolini, C.**, Wang, R. & Zeng, B.]{.pub-authors} [SLE 58, Université de Bordeaux, France · 2025]{.pub-venue}
+:::
+
+::: pub-entry
+['Give me a break': the English dative alternation in semantic vector space]{.pub-title} [**Paolini, C.** & Szmrecsanyi, B.]{.pub-authors} [ICAME 45, Universidad de Vigo, Spain · 2024]{.pub-venue}
+:::
+
+::: pub-entry
+[A distributional approach to usage-based exemplar representation of polysemous and productive derivational meaning: the case of Italian -ATA]{.pub-title} [**Paolini, C.**]{.pub-authors} [Challenging Construction Grammar, Monte Verità, Switzerland · 2024]{.pub-venue} [🏆 **Best Presentation Award, 2nd place**]{.pub-desc}
+:::
+
+::: pub-entry
+[Putting semantics back on the map: enriching grammatical alternation research with distributional semantics]{.pub-title} [**Paolini, C.**, Cuyckens, H., Marzo, S., Speelman, D. & Szmrecsanyi, B.]{.pub-authors} [ICLC 16, HHU Düsseldorf, Germany · 2023]{.pub-venue}
+:::
+
+::: pub-entry
+[Give me a break: another dative alternation study, but one enriched with distributional semantics]{.pub-title} [**Paolini, C.**, Cuyckens, H., Marzo, S., Speelman, D. & Szmrecsanyi, B.]{.pub-authors} [ISLE 7, University of Queensland, Australia · 2023]{.pub-venue}
+:::
+
+::: pub-entry
+[Who decides my gender? A corpus-based analysis of Wikidata's community discussions]{.pub-title} [**Paolini, C.**, Metilli, D., Melis, B. & Fioravanti, M.]{.pub-authors} [IGALA 12, University of Queensland, Australia · 2023]{.pub-venue}
+:::
+
+::: pub-entry
+[Annotation goes distributional: modeling semantic predictors of dative alternation using vector space models]{.pub-title} [**Paolini, C.**, Szmrecsanyi, B. & Montes, M.]{.pub-authors} [Taal en Tongval, KANTL, Ghent, Belgium · 2022]{.pub-venue}
+:::
+
+::: pub-entry
+[Progressive constructions in standard and non-standard varieties of Italian]{.pub-title} [Santilli, E. & **Paolini, C.**]{.pub-authors} [COLDOC 2022, Université Paris Nanterre, France · 2022]{.pub-venue}
+:::
+
+### Invited talks
+
+::: pub-entry
+[Integrare la semantica lessicale nell'analisi variazionista: un approccio distribuzionale]{.pub-title} [**Paolini, C.**]{.pub-authors} [University of Turin, Italy · 2026]{.pub-venue}
+:::
+
+::: pub-entry
+[Understanding lexical clues behind variant choice]{.pub-title} [**Paolini, C.**]{.pub-authors} [Departmental seminar, Université de Neuchâtel, Switzerland · 2024]{.pub-venue}
+:::
+
+::: pub-entry
+[The English dative alternation in vector space]{.pub-title} [Szmrecsanyi, B. & **Paolini, C.**]{.pub-authors} [COSE-16 (online) · 2024]{.pub-venue}
+[Link](https://www.youtube.com/watch?v=7BpWYaIiWi4)
+:::
+
+### Co-organized workshops
+
+::: pub-entry
+**Ridondanza sintagmatica e paradigmatica: nuove prospettive teoriche ed empiriche** (with Flavio Pisciotta, Luisa Troncone) [SLI (Brno, CZ), 2026]{.pub-venue}
+
+**\[call\] \[website\]**
+:::
+
+::: pub-entry
+**Workshop on Cognitive Aspects of the Lexicon** (**CogALex** **IX** - with Micheal Zock, Emmanuele Chersoni, Alessandro Lenci, Giulia Rambelli) [COLING (Macao, PRC) 2026]{.pub-venue}
+
+**\[call\] \[website\]**
+:::
+
+::: pub-entry
+**Queer Data Days** (with Daniele Metilli, Marta Fioravanti, Beatrice Melis)[UCL (UK), 2024]{.pub-venue}
+
+[Link](https://wigedi.com/event)
+:::
+
+## Grants & awards
+
+- Best Presentation Award, 2nd place · Challenging Construction Grammar, Monte Verità · 2024
+- FWO short-stay travel grant K245924N · 2024
+- Erasmus traineeship grants · 2015, 2019
+- Ministerial merit scholarship, MIUR · 2013–2019
+
+## Schools & training
+
+- Spring School on Language Variation, Bologna · 2023
+- LOT Winter School, Amsterdam · 2023
+- Methods in Language Science, Ghent · 2022
+- ESSLLI, Galway · 2022
+- Morphology Spring School, Free University of Bozen-Bolzano · 2021
+- TRIPLE-SIT Winter School, Roma Tre · 2017
+
+## Service
+
+- **Reviewer** for *Language and Cognition*, the *Oxford Encyclopedia of Romance Linguistics*, Litwin Books, and BriGap 2026
+- **PhD representative**, ABAP faculty council, Faculty of Arts, KU Leuven · 2022–2025
+- **Webmaster**, QLVL research group · 2022–2025
+- **Research team member**, Wikidata Gender Diversity (Wikimedia Research Fund) · 2021–2024
+- **Member** of SLI, AILC, SLE, ICLA, ISLE, ICAME and the Linguistic Society of Belgium
+
+## Languages
+
+Italian (native) · English (full professional proficiency) · French (B2) · Spanish and Hungarian (basic)
+
+For journal articles, book chapters and theses, see [Publications](publications.qmd); for datasets and code, see [Data & Code](data.qmd).

@@ -1,0 +1,226 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "PhD project · KU Leuven · 2021–2026 · FWO senior project G044721N\nSpeakers often choose between two ways of saying roughly the same thing, such as give Mary the book versus give the book to Mary. Variationist research has shown that these choices are probabilistic and shaped by many factors, but the meaning of the words involved is hard to capture at scale: manual semantic annotation is slow, coarse and difficult to reproduce.\nMy dissertation addresses this problem with distributional semantics. I developed a workflow that derives semantic predictors from vector-space models and integrates them into multivariate models of grammatical alternation. This makes it possible to ask how much lexical meaning adds to our understanding of variant choice, beyond the well-known formal and contextual predictors.\nThe workflow was applied to several grammatical alternations, including the dative alternation, the future temporal reference alternation and verbal complementation after remember, and extended to English comparative adjectives during a research stay at the Université de Neuchâtel (2024). The data come from spoken and written corpora across registers, including the Spoken BNC2014 and Switchboard.\nMethods: count-based vector-space models (Nephosem), dimensionality reduction (t-SNE, UMAP), clustering, mixed-effects regression, conditional inference trees and random forests, in Python and R.\nSupervision: Prof. B. Szmrecsanyi (supervisor); Prof. D. Speelman, Prof. H. Cuyckens, Prof. S. Marzo (co-supervisors)\nJury: Prof. H. De Smet and Dr K. Heylen (KU Leuven), Prof. A. Lenci (University of Pisa), Prof. S. Digesto (Carleton University)\nDefended: 23 February 2026\nPublications Data & code"
+  },
+  {
+    "objectID": "research.html#how-much-does-meaning-matter-a-fresh-look-at-grammatical-alternations",
+    "href": "research.html#how-much-does-meaning-matter-a-fresh-look-at-grammatical-alternations",
+    "title": "Research",
+    "section": "",
+    "text": "PhD project · KU Leuven · 2021–2026 · FWO senior project G044721N\nSpeakers often choose between two ways of saying roughly the same thing, such as give Mary the book versus give the book to Mary. Variationist research has shown that these choices are probabilistic and shaped by many factors, but the meaning of the words involved is hard to capture at scale: manual semantic annotation is slow, coarse and difficult to reproduce.\nMy dissertation addresses this problem with distributional semantics. I developed a workflow that derives semantic predictors from vector-space models and integrates them into multivariate models of grammatical alternation. This makes it possible to ask how much lexical meaning adds to our understanding of variant choice, beyond the well-known formal and contextual predictors.\nThe workflow was applied to several grammatical alternations, including the dative alternation, the future temporal reference alternation and verbal complementation after remember, and extended to English comparative adjectives during a research stay at the Université de Neuchâtel (2024). The data come from spoken and written corpora across registers, including the Spoken BNC2014 and Switchboard.\nMethods: count-based vector-space models (Nephosem), dimensionality reduction (t-SNE, UMAP), clustering, mixed-effects regression, conditional inference trees and random forests, in Python and R.\nSupervision: Prof. B. Szmrecsanyi (supervisor); Prof. D. Speelman, Prof. H. Cuyckens, Prof. S. Marzo (co-supervisors)\nJury: Prof. H. De Smet and Dr K. Heylen (KU Leuven), Prof. A. Lenci (University of Pisa), Prof. S. Digesto (Carleton University)\nDefended: 23 February 2026\nPublications Data & code"
+  },
+  {
+    "objectID": "research.html#wigedi-wikidata-gender-diversity",
+    "href": "research.html#wigedi-wikidata-gender-diversity",
+    "title": "Research",
+    "section": "WiGeDi: Wikidata Gender Diversity",
+    "text": "WiGeDi: Wikidata Gender Diversity\nResearch team member · Wikimedia Research Fund · 2021–2024\nHow is gender, including non-binary and queer identities, represented in Wikidata, and how has that representation changed over time? Part of this work was a corpus-based analysis of the community discussions in which these modeling decisions are made. The project produced articles in Internet Histories and Communication, Culture and Critique, a chapter in Ethics in Linked Data, and the WiGeTa-EN corpus. In 2024, I co-organized the Queer Data Days.\nMethods: corpus analysis, Python, tidyverse"
+  },
+  {
+    "objectID": "research.html#exemplar-modeling-of-italian-derivational-meaning",
+    "href": "research.html#exemplar-modeling-of-italian-derivational-meaning",
+    "title": "Research",
+    "section": "Exemplar modeling of Italian derivational meaning",
+    "text": "Exemplar modeling of Italian derivational meaning\nMA thesis · University of Pisa and Utrecht University · 2019–2020\nI applied a distributional exemplar model to Italian action nouns in -ATA, -ZIONE and -MENTO, treating the competing suffixes as a case of derivational overabundance with gradient, partly lexicalized preferences. During an Erasmus traineeship at UiL-OTS, Utrecht University (supervisor: Prof. D. Paperno), I built and annotated a dataset of Italian suffixed neologisms and nonce formations. The project built on my BA thesis on Italian deverbal nouns in -ZIONE.\nMethods: fastText, cluster analysis, CoNLL annotation, Python"
+  },
+  {
+    "objectID": "research.html#ontology-based-modeling-of-dantes-divina-commedia",
+    "href": "research.html#ontology-based-modeling-of-dantes-divina-commedia",
+    "title": "Research",
+    "section": "Ontology-based modeling of Dante’s Divina Commedia",
+    "text": "Ontology-based modeling of Dante’s Divina Commedia\nGraduate fellow · ISTI-CNR “A. Faedo”, Pisa · EU H2020 project ARIADNEplus · 2021\nI designed an ontology-based data model for syntactic structures and metaphor in Dante’s Divina Commedia, with structured annotation in XML and SQL.\nMethods: ontologies, XML, SQL"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "2021–2026 · PhD project, KU Leuven · FWO senior project G044721N\nHow much do the meanings of the words involved shape the choice between grammatical variants, such as give Mary the book versus give the book to Mary? I developed a workflow that derives semantic predictors from vector-space models and integrates them into multivariate models of grammatical alternation. The workflow was applied to the English dative alternation, the future temporal reference alternation, and verbal complementation after remember, and was extended to English comparative adjectives during a research stay at the Université de Neuchâtel (2024). The data come from spoken and written corpora of English and Italian, including the Spoken BNC2014 and Switchboard. See the dissertation page for more.\nTools/Methods: Python (Nephosem, UMAP), R (Rtsne, party, lme4, glmm)\n[OSF research compendium]\n\n\n\n\n2021–2024 · Wikimedia Research Fund\nAs a member of the research team, I studied how gender, including non-binary and queer identities, is represented in Wikidata and how that representation has changed over time. Part of this work involved a corpus-based analysis of the community discussions in which these modeling decisions are made. The project produced journal articles in Internet Histories and Communication, Culture and Critique, a book chapter in Ethics in Linked Data, and the WiGeTa-EN corpus of Wikipedia gender talks. In 2024, I co-organized the Queer Data Days.\nTools/Methods: Python, tidyverse\n[WiGeTa-EN corpus]\n\n\n\n\n2019–2020 · University of Pisa and Utrecht University\nI applied a distributional exemplar model to Italian action nouns in -ATA, -ZIONE and -MENTO, treating the competing suffixes as a case of derivational overabundance with gradient, partly lexicalized preferences. During an Erasmus traineeship at UiL-OTS, Utrecht University (supervisor: Prof. D. Paperno), I built and annotated a dataset of Italian suffixed neologisms and nonce formations in CoNLL format. The project built on my BA thesis on Italian deverbal nouns in -ZIONE.\nTools/Methods: Python (fastText), cluster analysis, CoNLL annotation\n[Annotated datasets]\n\n\n\n\n2021 · ISTI-CNR “A. Faedo”, Pisa · EU H2020 project ARIADNEplus\nAs a graduate fellow, I designed an ontology-based data model for syntactic structures and metaphor in Dante’s Divina Commedia, with structured annotation in XML and SQL.\nTools/Methods: ontologies, XML, SQL"
+  },
+  {
+    "objectID": "projects.html#research-projects",
+    "href": "projects.html#research-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "2021–2026 · PhD project, KU Leuven · FWO senior project G044721N\nHow much do the meanings of the words involved shape the choice between grammatical variants, such as give Mary the book versus give the book to Mary? I developed a workflow that derives semantic predictors from vector-space models and integrates them into multivariate models of grammatical alternation. The workflow was applied to the English dative alternation, the future temporal reference alternation, and verbal complementation after remember, and was extended to English comparative adjectives during a research stay at the Université de Neuchâtel (2024). The data come from spoken and written corpora of English and Italian, including the Spoken BNC2014 and Switchboard. See the dissertation page for more.\nTools/Methods: Python (Nephosem, UMAP), R (Rtsne, party, lme4, glmm)\n[OSF research compendium]\n\n\n\n\n2021–2024 · Wikimedia Research Fund\nAs a member of the research team, I studied how gender, including non-binary and queer identities, is represented in Wikidata and how that representation has changed over time. Part of this work involved a corpus-based analysis of the community discussions in which these modeling decisions are made. The project produced journal articles in Internet Histories and Communication, Culture and Critique, a book chapter in Ethics in Linked Data, and the WiGeTa-EN corpus of Wikipedia gender talks. In 2024, I co-organized the Queer Data Days.\nTools/Methods: Python, tidyverse\n[WiGeTa-EN corpus]\n\n\n\n\n2019–2020 · University of Pisa and Utrecht University\nI applied a distributional exemplar model to Italian action nouns in -ATA, -ZIONE and -MENTO, treating the competing suffixes as a case of derivational overabundance with gradient, partly lexicalized preferences. During an Erasmus traineeship at UiL-OTS, Utrecht University (supervisor: Prof. D. Paperno), I built and annotated a dataset of Italian suffixed neologisms and nonce formations in CoNLL format. The project built on my BA thesis on Italian deverbal nouns in -ZIONE.\nTools/Methods: Python (fastText), cluster analysis, CoNLL annotation\n[Annotated datasets]\n\n\n\n\n2021 · ISTI-CNR “A. Faedo”, Pisa · EU H2020 project ARIADNEplus\nAs a graduate fellow, I designed an ontology-based data model for syntactic structures and metaphor in Dante’s Divina Commedia, with structured annotation in XML and SQL.\nTools/Methods: ontologies, XML, SQL"
+  },
+  {
+    "objectID": "projects.html#teaching-supervision",
+    "href": "projects.html#teaching-supervision",
+    "title": "Projects",
+    "section": "Teaching & supervision",
+    "text": "Teaching & supervision\n\nCourse instructor, Italian Linguistics III (KU Leuven, 2026) and Italian Linguistics II (KU Leuven, Antwerp campus, 2026–2027), with full responsibility for course design, materials, assessment and lecturing\nLecturer, Italiaans: taal & tekst I (KU Leuven, 2022–2025), a year-long course taught for three consecutive years\nGuest module on regression models and statistics for corpus linguistics, advanced MA in Linguistics (KU Leuven, 2023)\nCo-supervisor of two MA theses on vector-space modeling of grammatical alternations (KU Leuven, 2024)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chiara Paolini",
+    "section": "",
+    "text": "I am a linguist working at the intersection of language variation, corpus linguistics and distributional semantics. I currently teach Italian linguistics at KU Leuven, where I earned my PhD in Linguistics in February 2026 with a dissertation on semantic factors in grammatical alternations using distributional semantics techniques, supervised by Prof. Dr. Benedikt Szmrecsanyi.\nMy research interests include:\n\nVariationist sociolinguistics and probabilistic grammar\nLanguage variation and change\nCorpus linguistics and advanced statistical methods\nLexical and distributional semantics\nUsage-based and cognitive approaches to language\nMorphosemantics and language creativity\nLarge language models from a linguistic perspective"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Chiara Paolini",
+    "section": "",
+    "text": "I am a linguist working at the intersection of language variation, corpus linguistics and distributional semantics. I currently teach Italian linguistics at KU Leuven, where I earned my PhD in Linguistics in February 2026 with a dissertation on semantic factors in grammatical alternations using distributional semantics techniques, supervised by Prof. Dr. Benedikt Szmrecsanyi.\nMy research interests include:\n\nVariationist sociolinguistics and probabilistic grammar\nLanguage variation and change\nCorpus linguistics and advanced statistical methods\nLexical and distributional semantics\nUsage-based and cognitive approaches to language\nMorphosemantics and language creativity\nLarge language models from a linguistic perspective"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "PhD in Linguistics · KU Leuven, Belgium · 2021–2026\nHow much does meaning matter? A fresh look at grammatical alternations · defended 23 February 2026\nSupervisor: Prof. B. Szmrecsanyi · Co-supervisors: Prof. D. Speelman, Prof. H. Cuyckens, Prof. S. Marzo\nMA in Linguistics & Translation (LM-39) · University of Pisa, Italy · 2017–2020\n110/110 cum laude · thesis on exemplar-based modeling of Italian derivational meaning\nBA in Digital Humanities (Informatica Umanistica, L-10) · University of Pisa, Italy · 2013–2016\nComputational-linguistics track · 110/110"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "PhD in Linguistics · KU Leuven, Belgium · 2021–2026\nHow much does meaning matter? A fresh look at grammatical alternations · defended 23 February 2026\nSupervisor: Prof. B. Szmrecsanyi · Co-supervisors: Prof. D. Speelman, Prof. H. Cuyckens, Prof. S. Marzo\nMA in Linguistics & Translation (LM-39) · University of Pisa, Italy · 2017–2020\n110/110 cum laude · thesis on exemplar-based modeling of Italian derivational meaning\nBA in Digital Humanities (Informatica Umanistica, L-10) · University of Pisa, Italy · 2013–2016\nComputational-linguistics track · 110/110"
+  },
+  {
+    "objectID": "cv.html#teaching-supervision",
+    "href": "cv.html#teaching-supervision",
+    "title": "Curriculum Vitae",
+    "section": "Teaching & supervision (?)",
+    "text": "Teaching & supervision (?)\nCourse instructor (deputy ZAP) · KU Leuven, Faculty of Arts · 2026–2027\nItalian Linguistics III (Leuven, 2026) and Italian Linguistics II (Antwerp, 2026–2027)\nLecturer · Italiaans: taal & tekst I · KU Leuven · 2022–2025\nGuest module on regression models and statistics for corpus linguistics · advanced MA in Linguistics, KU Leuven · 2023\nCo-supervisor of two MA theses on vector-space modeling of grammatical alternations · KU Leuven · 2024"
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research experience (?)",
+    "text": "Research experience (?)\nVisiting researcher · Université de Neuchâtel, Switzerland · 2024\nHost: Prof. M. Hilpert · FWO short-stay grant K245924N\nGraduate fellow · ISTI-CNR “A. Faedo”, Pisa, Italy · 2021\nEU H2020 project ARIADNEplus · supervisor: C. Meghini\nErasmus research trainee · UiL-OTS, Utrecht University, Netherlands · 2019\nSupervisor: Prof. D. Paperno\nErasmus research trainee · CLLE (UMR 5263), Université Toulouse II, France · 2015\nSupervisors: F. Montermini, B. Calderone"
+  },
+  {
+    "objectID": "cv.html#conferences-workshops",
+    "href": "cv.html#conferences-workshops",
+    "title": "Curriculum Vitae",
+    "section": "Conferences & Workshops",
+    "text": "Conferences & Workshops\n\nPeer-reviewed talks\n\nVerbal complementation after remember in semantic vector space Szmrecsanyi, B., Paolini, C. & Cuyckens, H. Conference in honour of Manfred Krug, University of Bamberg, Germany · 2026\n\n\nPredire il presente e il futuro: analizzare la variazione linguistica in italiano con metodi statistici Digesto, S. & Paolini, C. SLI 2025, University of L’Aquila, Italy · 2025\n\n\nL’alternanza progressiva e i suoi registri Paolini, C., Erriu, S. & Marzo, S. SLI 2025, University of L’Aquila, Italy · 2025\n\n\nModeling linguistic choices across registers: the future temporal reference alternation in English Paolini, C., Wang, R. & Zeng, B. SLE 58, Université de Bordeaux, France · 2025\n\n\n‘Give me a break’: the English dative alternation in semantic vector space Paolini, C. & Szmrecsanyi, B. ICAME 45, Universidad de Vigo, Spain · 2024\n\n\nA distributional approach to usage-based exemplar representation of polysemous and productive derivational meaning: the case of Italian -ATA Paolini, C. Challenging Construction Grammar, Monte Verità, Switzerland · 2024 🏆 Best Presentation Award, 2nd place\n\n\nPutting semantics back on the map: enriching grammatical alternation research with distributional semantics Paolini, C., Cuyckens, H., Marzo, S., Speelman, D. & Szmrecsanyi, B. ICLC 16, HHU Düsseldorf, Germany · 2023\n\n\nGive me a break: another dative alternation study, but one enriched with distributional semantics Paolini, C., Cuyckens, H., Marzo, S., Speelman, D. & Szmrecsanyi, B. ISLE 7, University of Queensland, Australia · 2023\n\n\nWho decides my gender? A corpus-based analysis of Wikidata’s community discussions Paolini, C., Metilli, D., Melis, B. & Fioravanti, M. IGALA 12, University of Queensland, Australia · 2023\n\n\nAnnotation goes distributional: modeling semantic predictors of dative alternation using vector space models Paolini, C., Szmrecsanyi, B. & Montes, M. Taal en Tongval, KANTL, Ghent, Belgium · 2022\n\n\nProgressive constructions in standard and non-standard varieties of Italian Santilli, E. & Paolini, C. COLDOC 2022, Université Paris Nanterre, France · 2022\n\n\n\nInvited talks\n\nIntegrare la semantica lessicale nell’analisi variazionista: un approccio distribuzionale Paolini, C. University of Turin, Italy · 2026\n\n\nUnderstanding lexical clues behind variant choice Paolini, C. Departmental seminar, Université de Neuchâtel, Switzerland · 2024\n\n\nThe English dative alternation in vector space Szmrecsanyi, B. & Paolini, C. COSE-16 (online) · 2024 Link\n\n\n\nCo-organized workshops\n\nRidondanza sintagmatica e paradigmatica: nuove prospettive teoriche ed empiriche (with Flavio Pisciotta, Luisa Troncone) SLI (Brno, CZ), 2026\n[call] [website]\n\n\nWorkshop on Cognitive Aspects of the Lexicon (CogALex IX - with Micheal Zock, Emmanuele Chersoni, Alessandro Lenci, Giulia Rambelli) COLING (Macao, PRC) 2026\n[call] [website]\n\n\nQueer Data Days (with Daniele Metilli, Marta Fioravanti, Beatrice Melis)UCL (UK), 2024\nLink"
+  },
+  {
+    "objectID": "cv.html#grants-awards",
+    "href": "cv.html#grants-awards",
+    "title": "Curriculum Vitae",
+    "section": "Grants & awards",
+    "text": "Grants & awards\n\nBest Presentation Award, 2nd place · Challenging Construction Grammar, Monte Verità · 2024\nFWO short-stay travel grant K245924N · 2024\nErasmus traineeship grants · 2015, 2019\nMinisterial merit scholarship, MIUR · 2013–2019"
+  },
+  {
+    "objectID": "cv.html#schools-training",
+    "href": "cv.html#schools-training",
+    "title": "Curriculum Vitae",
+    "section": "Schools & training",
+    "text": "Schools & training\n\nSpring School on Language Variation, Bologna · 2023\nLOT Winter School, Amsterdam · 2023\nMethods in Language Science, Ghent · 2022\nESSLLI, Galway · 2022\nMorphology Spring School, Free University of Bozen-Bolzano · 2021\nTRIPLE-SIT Winter School, Roma Tre · 2017"
+  },
+  {
+    "objectID": "cv.html#service",
+    "href": "cv.html#service",
+    "title": "Curriculum Vitae",
+    "section": "Service",
+    "text": "Service\n\nReviewer for Language and Cognition, the Oxford Encyclopedia of Romance Linguistics, Litwin Books, and BriGap 2026\nPhD representative, ABAP faculty council, Faculty of Arts, KU Leuven · 2022–2025\nWebmaster, QLVL research group · 2022–2025\nResearch team member, Wikidata Gender Diversity (Wikimedia Research Fund) · 2021–2024\nMember of SLI, AILC, SLE, ICLA, ISLE, ICAME and the Linguistic Society of Belgium"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "Languages",
+    "text": "Languages\nItalian (native) · English (full professional proficiency) · French (B2) · Spanish and Hungarian (basic)\nFor journal articles, book chapters and theses, see Publications; for datasets and code, see Data & Code."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "The best way to reach me is by email. I’m happy to hear about research collaborations, talks, or questions about my data and code.\nEmail: chiara.paolini@kuleuven.be\nAffiliation: Faculty of Arts, KU Leuven, Belgium\n\nElsewhere online\n\n GitHub: github.com/cipaolini\n LinkedIn: Chiara Paolini\n ORCID: 0000-0001-7961-3624\n OSF: research compendium of my PhD"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data & Code",
+    "section": "",
+    "text": "I share the data and analysis code behind my research openly, following FAIR principles. Most of my datasets are on Zenodo and OSF, and my code is on GitHub."
+  },
+  {
+    "objectID": "data.html#datasets",
+    "href": "data.html#datasets",
+    "title": "Data & Code",
+    "section": "Datasets",
+    "text": "Datasets\n\nVariationist dataset on English clause complementation after remember Paolini, C., Cuyckens, H. & Szmrecsanyi, B. OSF · 2026 Annotated corpus data on verbal complementation after remember, together with the full analysis code, results and replication documentation for the De Gruyter chapter. DOI\n\n\nWiGeTa-EN: Wikipedia Gender Talks corpus (English), v1.0.0 Paolini, C., Melis, B., Fioravanti, M. & Metilli, D. Zenodo · 2021 A corpus of English Wikipedia community discussions about gender, built within the Wikidata Gender Diversity project. DOI\n\n\nAnnotated datasets of Italian deverbal nouns with suffixes -ZIONE, -MENTO and -ATA, v1.0.0 Paolini, C. Zenodo · 2020 Annotated Italian action nouns used for the distributional exemplar modeling of derivational meaning in my MA thesis. DOI"
+  },
+  {
+    "objectID": "data.html#research-compendia",
+    "href": "data.html#research-compendia",
+    "title": "Data & Code",
+    "section": "Research compendia",
+    "text": "Research compendia\nEach compendium contains the data, the full analysis code in R and Python, the results and replication documentation for one study.\n\nHow much does meaning matter? A fresh look at grammatical alternations PhD thesis, KU Leuven · 2026 OSF\n\n\nThe English dative alternation in vector space: how much does meaning matter? Corpus Linguistics and Linguistic Theory · 2025 OSF Paper\n\n\nDistributional semantics and the English dative alternation: recipient and theme slots matter (to some extent) Papers of the Linguistic Society of Belgium 17 · 2023 OSF Paper"
+  },
+  {
+    "objectID": "data.html#tools-i-work-with",
+    "href": "data.html#tools-i-work-with",
+    "title": "Data & Code",
+    "section": "Tools I work with",
+    "text": "Tools I work with\nDistributional & neural models: Nephosem, word2vec, fastText; transformer models and LLMs via Hugging Face (inference, embedding extraction, systematic prompting, evaluation-set construction)\nNLP pipelines: spaCy, Stanza and UDPipe for Italian, French and English\nStatistics & visualization: R (lme4, party, Rtsne, tidyverse), Python (scikit-learn, SciPy, matplotlib, PyTorch, UMAP)\nFormats & standards: XML, TEI, CoNLL, SQL; reproducible reports with Quarto and R Markdown"
+  },
+  {
+    "objectID": "PhD_dissertation.html",
+    "href": "PhD_dissertation.html",
+    "title": "How much does meaning matter?",
+    "section": "",
+    "text": "Note\n\n\n\nDefended on 23 February 2026 at KU Leuven.\nAll code and data are openly available in the OSF research compendium."
+  },
+  {
+    "objectID": "PhD_dissertation.html#about-the-project",
+    "href": "PhD_dissertation.html#about-the-project",
+    "title": "How much does meaning matter?",
+    "section": "About the project",
+    "text": "About the project\nSpeakers often choose between two ways of saying roughly the same thing, such as give Mary the book versus give the book to Mary. Variationist research has shown that these choices are probabilistic and shaped by many factors, but the meaning of the words involved is hard to capture at scale: manual semantic annotation is slow, coarse and difficult to reproduce.\nMy dissertation addresses this problem with distributional semantics. I developed a workflow that derives semantic predictors from vector-space models and integrates them into multivariate models of grammatical alternation. This makes it possible to ask how much lexical meaning adds to our understanding of variant choice, beyond the well-known formal and contextual predictors.\nThe workflow was applied to several grammatical alternations, including the dative alternation, the future temporal reference alternation and verbal complementation after remember. The data are drawn from spoken and written corpora across registers, including the Spoken BNC2014 and Switchboard.\nMethods: count-based vector-space models (Nephosem), dimensionality reduction (t-SNE, UMAP), clustering, mixed-effects regression and conditional inference trees and random forests, in Python and R."
+  },
+  {
+    "objectID": "PhD_dissertation.html#related-publications",
+    "href": "PhD_dissertation.html#related-publications",
+    "title": "How much does meaning matter?",
+    "section": "Related publications",
+    "text": "Related publications\n\nPaolini, C. & Szmrecsanyi, B. (accepted). The limits of optionality: modeling the future temporal reference alternation in English. Language and Cognition.\nPaolini, C., Cuyckens, H., Speelman, D. & Szmrecsanyi, B. (2025). The English dative alternation in vector space: how much does meaning matter? Corpus Linguistics and Linguistic Theory. [Data & code]\nSzmrecsanyi, B., Paolini, C. & Cuyckens, H. (2026). Verbal complementation after remember in semantic vector space. De Gruyter. [Data & code]\nPaolini, C., Szmrecsanyi, B., Montes, M. & Cuyckens, H. (2023). Distributional semantics and the English dative alternation: recipient and theme slots matter (to some extent). Papers of the Linguistic Society of Belgium 17. [Data & code]"
+  },
+  {
+    "objectID": "PhD_dissertation.html#supervision-and-jury",
+    "href": "PhD_dissertation.html#supervision-and-jury",
+    "title": "How much does meaning matter?",
+    "section": "Supervision and jury",
+    "text": "Supervision and jury\nSupervisor: Prof. Benedikt Szmrecsanyi\nCo-supervisors: Prof. D. Speelman, Prof. H. Cuyckens, Prof. S. Marzo\nJury: Prof. H. De Smet and Dr K. Heylen (KU Leuven), Prof. A. Lenci (University of Pisa), Prof. S. Digesto (Carleton University)\nFunding: FWO senior research project G044721N"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "The limits of optionality: modeling the future temporal reference alternation in English Paolini, C. & Szmrecsanyi, B. Language and Cognition, Special Issue: Isomorphism and Optionality in Language ·2026· Open Access DOI Data & code\n\n\nThe English dative alternation in vector space: how much does meaning matter? Paolini, C., Cuyckens, H., Speelman, D. & Szmrecsanyi, B. Corpus Linguistics and Linguistic Theory · 2025 · Open Access DOI Data & code\n\n\nHow have you modelled my gender? Reconstructing the history of gender representation in Wikidata Melis, B., Fioravanti, M., Paolini, C. & Metilli, D. Internet Histories 9(1–2): 163–179 · 2024 · Open Access DOI\n\n\nWhat does it mean to be queer in Wikidata? Practices of gender representation within a transnational online community Melis, B., Paolini, C., Fioravanti, M. & Metilli, D. Communication, Culture and Critique 17(3): 200–207 · 2024 DOI\n\n\nDistributional semantics and the English dative alternation: recipient and theme slots matter (to some extent) Paolini, C., Szmrecsanyi, B., Montes, M. & Cuyckens, H. Papers of the Linguistic Society of Belgium 17 · 2023 · Open Access PDF Data & code"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-journal-articles",
+    "href": "publications.html#peer-reviewed-journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "The limits of optionality: modeling the future temporal reference alternation in English Paolini, C. & Szmrecsanyi, B. Language and Cognition, Special Issue: Isomorphism and Optionality in Language ·2026· Open Access DOI Data & code\n\n\nThe English dative alternation in vector space: how much does meaning matter? Paolini, C., Cuyckens, H., Speelman, D. & Szmrecsanyi, B. Corpus Linguistics and Linguistic Theory · 2025 · Open Access DOI Data & code\n\n\nHow have you modelled my gender? Reconstructing the history of gender representation in Wikidata Melis, B., Fioravanti, M., Paolini, C. & Metilli, D. Internet Histories 9(1–2): 163–179 · 2024 · Open Access DOI\n\n\nWhat does it mean to be queer in Wikidata? Practices of gender representation within a transnational online community Melis, B., Paolini, C., Fioravanti, M. & Metilli, D. Communication, Culture and Critique 17(3): 200–207 · 2024 DOI\n\n\nDistributional semantics and the English dative alternation: recipient and theme slots matter (to some extent) Paolini, C., Szmrecsanyi, B., Montes, M. & Cuyckens, H. Papers of the Linguistic Society of Belgium 17 · 2023 · Open Access PDF Data & code"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-book-chapters",
+    "href": "publications.html#peer-reviewed-book-chapters",
+    "title": "Publications",
+    "section": "Peer-reviewed book chapters",
+    "text": "Peer-reviewed book chapters\n\nVerbal complementation after remember in semantic vector space Szmrecsanyi, B., Paolini, C. & Cuyckens, H. In Werner et al. (eds), Juggling Intra- and Extralinguistic Factors in the Study of Variation and Change · De Gruyter · 2026 DOI Data & code\n\n\nNon-binary gender representation in Wikidata Metilli, D. & Paolini, C. In Watson, Burlingame & Provo (eds), Ethics in Linked Data · Litwin Books · 2023 PDF\n\n\nIn favor of multicultural integration: an experimental design to assess young migrants’ literacy rate Pagani, C. & Paolini, C. In Bucciarelli et al. (eds), Decision Economics: Complexity of Decisions and Decisions for Complexity (DECON 2019), Advances in Intelligent Systems and Computing 1009 · Springer · 2020 DOI\n\n\nThe ascending staircase of the metaphor: from a rhetorical device to a method for revealing cognitive processes Pagani, C. & Paolini, C. In Bucciarelli et al. (eds), Decision Economics: Complexity of Decisions and Decisions for Complexity (DECON 2019), Advances in Intelligent Systems and Computing 1009 · Springer · 2020 DOI"
+  },
+  {
+    "objectID": "publications.html#theses",
+    "href": "publications.html#theses",
+    "title": "Publications",
+    "section": "Theses",
+    "text": "Theses\n\nHow much does meaning matter? A fresh look at grammatical alternations Paolini, C. PhD thesis, KU Leuven · 2026 Data & code\n\n\nApplicazione del modello distribuzionale alla rappresentazione a esemplari del significato derivazionale: il caso dei nomi d’azione in -ATA, -ZIONE e -MENTO Paolini, C. MA thesis, University of Pisa · 2020 Data\n\n\nI deverbali italiani in -ZIONE: indagine distribuzionale-lessicografica degli spazi semantici Paolini, C. BA thesis, University of Pisa · 2016\n\nDatasets and analysis code are collected on the Data & Code page, and conference talks are listed in my CV."
+  }
+]

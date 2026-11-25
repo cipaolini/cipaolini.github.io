@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Chiara Paolini"
+  site-url: https://cipaolini.github.io
+  description: "Linguist working on language variation, corpus linguistics and distributional semantics."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: data.qmd
+        text: Data & Code
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    center: "© 2026 Chiara Paolini · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [litera, custom.scss]
+    css: styles.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.5/css/academicons.min.css">
+    toc: true
+
+editor: visual

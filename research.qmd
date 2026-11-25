@@ -1,0 +1,51 @@
+---
+title: "Research"
+---
+
+## How much does meaning matter? A fresh look at grammatical alternations
+
+*PhD project · KU Leuven · 2021–2026 · FWO senior project G044721N*
+
+Speakers often choose between two ways of saying roughly the same thing, such as *give Mary the book* versus *give the book to Mary*. Variationist research has shown that these choices are probabilistic and shaped by many factors, but the meaning of the words involved is hard to capture at scale: manual semantic annotation is slow, coarse and difficult to reproduce.
+
+My dissertation addresses this problem with **distributional semantics**. I developed a workflow that derives semantic predictors from vector-space models and integrates them into multivariate models of grammatical alternation. This makes it possible to ask how much lexical meaning adds to our understanding of variant choice, beyond the well-known formal and contextual predictors.
+
+The workflow was applied to several grammatical alternations, including the dative alternation, the future temporal reference alternation and verbal complementation after *remember*, and extended to English comparative adjectives during a research stay at the Université de Neuchâtel (2024). The data come from spoken and written corpora across registers, including the Spoken BNC2014 and Switchboard.
+
+**Methods:** count-based vector-space models (Nephosem), dimensionality reduction (t-SNE, UMAP), clustering, mixed-effects regression, conditional inference trees and random forests, in Python and R.
+
+**Supervision:** Prof. B. Szmrecsanyi (supervisor); Prof. D. Speelman, Prof. H. Cuyckens, Prof. S. Marzo (co-supervisors)\
+**Jury:** Prof. H. De Smet and Dr K. Heylen (KU Leuven), Prof. A. Lenci (University of Pisa), Prof. S. Digesto (Carleton University)\
+**Defended:** 23 February 2026
+
+[[Publications](publications.qmd) [Data & code](data.qmd)]{.pub-links}
+
+------------------------------------------------------------------------
+
+## WiGeDi: Wikidata Gender Diversity
+
+*Research team member · Wikimedia Research Fund · 2021–2024*
+
+How is gender, including non-binary and queer identities, represented in Wikidata, and how has that representation changed over time? Part of this work was a corpus-based analysis of the community discussions in which these modeling decisions are made. The project produced articles in *Internet Histories* and *Communication, Culture and Critique*, a chapter in *Ethics in Linked Data*, and the WiGeTa-EN corpus. In 2024, I co-organized the Queer Data Days.
+
+**Methods:** corpus analysis, Python, tidyverse
+
+------------------------------------------------------------------------
+
+## Exemplar modeling of Italian derivational meaning
+
+*MA thesis · University of Pisa and Utrecht University · 2019–2020*
+
+I applied a distributional exemplar model to Italian action nouns in -ATA, -ZIONE and -MENTO, treating the competing suffixes as a case of derivational overabundance with gradient, partly lexicalized preferences. During an Erasmus traineeship at UiL-OTS, Utrecht University (supervisor: Prof. D. Paperno), I built and annotated a dataset of Italian suffixed neologisms and nonce formations. The project built on my BA thesis on Italian deverbal nouns in -ZIONE.
+
+**Methods:** fastText, cluster analysis, CoNLL annotation, Python
+
+------------------------------------------------------------------------
+
+## Ontology-based modeling of Dante's *Divina Commedia*
+
+*Graduate fellow · ISTI-CNR "A. Faedo", Pisa · EU H2020 project ARIADNEplus · 2021*
+
+I designed an ontology-based data model for syntactic structures and metaphor in Dante's *Divina Commedia*, with structured annotation in XML and SQL.
+
+**Methods:** ontologies, XML, SQL

@@ -1,0 +1,56 @@
+---
+title: "Projects"
+---
+
+## Research projects
+
+### How much does meaning matter? A fresh look at grammatical alternations
+
+*2021–2026 · PhD project, KU Leuven · FWO senior project G044721N*
+
+How much do the meanings of the words involved shape the choice between grammatical variants, such as *give Mary the book* versus *give the book to Mary*? I developed a workflow that derives semantic predictors from vector-space models and integrates them into multivariate models of grammatical alternation. The workflow was applied to the English dative alternation, the future temporal reference alternation, and verbal complementation after *remember*, and was extended to English comparative adjectives during a research stay at the Université de Neuchâtel (2024). The data come from spoken and written corpora of English and Italian, including the Spoken BNC2014 and Switchboard. See the [dissertation page](PhD_dissertation.qmd) for more.
+
+**Tools/Methods:** Python (Nephosem, UMAP), R (Rtsne, party, lme4, glmm)
+
+[\[OSF research compendium\]](https://doi.org/10.17605/OSF.IO/52F94)
+
+------------------------------------------------------------------------
+
+### WiGeDi: Wikidata Gender Diversity
+
+*2021–2024 · Wikimedia Research Fund*
+
+As a member of the research team, I studied how gender, including non-binary and queer identities, is represented in Wikidata and how that representation has changed over time. Part of this work involved a corpus-based analysis of the community discussions in which these modeling decisions are made. The project produced journal articles in *Internet Histories* and *Communication, Culture and Critique*, a book chapter in *Ethics in Linked Data*, and the WiGeTa-EN corpus of Wikipedia gender talks. In 2024, I co-organized the Queer Data Days.
+
+**Tools/Methods:** Python, tidyverse
+
+[\[WiGeTa-EN corpus\]](https://doi.org/10.5281/zenodo.20054893)
+
+------------------------------------------------------------------------
+
+### Exemplar modeling of derivational nonce formations in Italian (MA thesis)
+
+*2019–2020 · University of Pisa and Utrecht University*
+
+I applied a distributional exemplar model to Italian action nouns in -ATA, -ZIONE and -MENTO, treating the competing suffixes as a case of derivational overabundance with gradient, partly lexicalized preferences. During an Erasmus traineeship at UiL-OTS, Utrecht University (supervisor: Prof. D. Paperno), I built and annotated a dataset of Italian suffixed neologisms and nonce formations in CoNLL format. The project built on my BA thesis on Italian deverbal nouns in -ZIONE.
+
+**Tools/Methods:** Python (fastText), cluster analysis, CoNLL annotation
+
+[\[Annotated datasets\]](https://doi.org/10.5281/zenodo.20049797)
+
+------------------------------------------------------------------------
+
+### Ontology-based modeling of Dante's *Divina Commedia*
+
+*2021 · ISTI-CNR "A. Faedo", Pisa · EU H2020 project ARIADNEplus*
+
+As a graduate fellow, I designed an ontology-based data model for syntactic structures and metaphor in Dante's *Divina Commedia*, with structured annotation in XML and SQL.
+
+**Tools/Methods:** ontologies, XML, SQL
+
+## Teaching & supervision
+
+- **Course instructor**, *Italian Linguistics III* (KU Leuven, 2026) and *Italian Linguistics II* (KU Leuven, Antwerp campus, 2026–2027), with full responsibility for course design, materials, assessment and lecturing
+- **Lecturer**, *Italiaans: taal & tekst I* (KU Leuven, 2022–2025), a year-long course taught for three consecutive years
+- **Guest module** on regression models and statistics for corpus linguistics, advanced MA in Linguistics (KU Leuven, 2023)
+- **Co-supervisor** of two MA theses on vector-space modeling of grammatical alternations (KU Leuven, 2024)

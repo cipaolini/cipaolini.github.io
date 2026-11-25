@@ -1,0 +1,37 @@
+---
+title: "Chiara Paolini"
+subtitle: "Linguist · KU Leuven"
+image: PhD_pics.jpg
+toc: false
+about:
+  template: jolla           # other layouts: trestles, solana, marquee, broadside
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:chiara.paolini@kuleuven.be
+    - icon: github
+      text: GitHub
+      href: https://github.com/cipaolini
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/chiara-paolini-604276126/
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0001-7961-3624
+---
+
+## About me
+
+I am a linguist working at the intersection of language variation, corpus linguistics and distributional semantics. I currently teach Italian linguistics at KU Leuven, where I earned my PhD in Linguistics in February 2026 with a dissertation on **semantic factors in grammatical alternations using distributional semantics techniques**, supervised by Prof. Dr. Benedikt Szmrecsanyi.
+
+My research interests include:
+
+- Variationist sociolinguistics and probabilistic grammar
+- Language variation and change
+- Corpus linguistics and advanced statistical methods
+- Lexical and distributional semantics
+- Usage-based and cognitive approaches to language
+- Morphosemantics and language creativity
+- Large language models from a linguistic perspective
+
+## 

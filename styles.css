@@ -1,0 +1,7 @@
+/* css styles (colours live in custom.scss) */
+
+/* ORCID icon (from Academicons), used on the homepage and in the navbar */
+i.bi.bi-orcid::before {
+  font-family: "Academicons" !important;
+  content: "\e9d9";
+}

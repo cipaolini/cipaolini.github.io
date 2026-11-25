@@ -1,0 +1,59 @@
+---
+title: "Publications"
+---
+
+## Peer-reviewed journal articles
+
+::: pub-entry
+[The limits of optionality: modeling the future temporal reference alternation in English]{.pub-title} [**Paolini, C.** & Szmrecsanyi, B.]{.pub-authors} [*Language and Cognition*, Special Issue: Isomorphism and Optionality in Language · ]{.pub-venue}2026[· Open Access]{.pub-venue} [[DOI](https://doi.org/10.1017/langcog.2026.10126) [Data & code](https://osf.io/5d6ec)]{.pub-links}
+:::
+
+::: pub-entry
+[The English dative alternation in vector space: how much does meaning matter?]{.pub-title} [**Paolini, C.**, Cuyckens, H., Speelman, D. & Szmrecsanyi, B.]{.pub-authors} [*Corpus Linguistics and Linguistic Theory* · 2025 · Open Access]{.pub-venue} [[DOI](https://doi.org/10.1515/cllt-2024-0095) [Data & code](https://osf.io/kfqsr)]{.pub-links}
+:::
+
+::: pub-entry
+[How have you modelled my gender? Reconstructing the history of gender representation in Wikidata]{.pub-title} [Melis, B., Fioravanti, M., **Paolini, C.** & Metilli, D.]{.pub-authors} [*Internet Histories* 9(1–2): 163–179 · 2024 · Open Access]{.pub-venue} [[DOI](https://doi.org/10.1080/24701475.2024.2431798)]{.pub-links}
+:::
+
+::: pub-entry
+[What does it mean to be queer in Wikidata? Practices of gender representation within a transnational online community]{.pub-title} [Melis, B., **Paolini, C.**, Fioravanti, M. & Metilli, D.]{.pub-authors} [*Communication, Culture and Critique* 17(3): 200–207 · 2024]{.pub-venue} [[DOI](https://doi.org/10.1093/ccc/tcae029)]{.pub-links}
+:::
+
+::: pub-entry
+[Distributional semantics and the English dative alternation: recipient and theme slots matter (to some extent)]{.pub-title} [**Paolini, C.**, Szmrecsanyi, B., Montes, M. & Cuyckens, H.]{.pub-authors} [*Papers of the Linguistic Society of Belgium* 17 · 2023 · Open Access]{.pub-venue} [[PDF](https://sites.uclouvain.be/bkl-cbl/wp-content/uploads/2024/01/papersLSB_dative-alternation_paolini-et.al_.pdf) [Data & code](https://osf.io/6cdtm)]{.pub-links}
+:::
+
+## Peer-reviewed book chapters
+
+::: pub-entry
+[Verbal complementation after *remember* in semantic vector space]{.pub-title} [Szmrecsanyi, B., **Paolini, C.** & Cuyckens, H.]{.pub-authors} [In Werner et al. (eds), *Juggling Intra- and Extralinguistic Factors in the Study of Variation and Change* · De Gruyter · 2026]{.pub-venue} [[DOI](https://www.degruyterbrill.com/document/doi/10.1515/9783112208281-014/html) [Data & code](https://doi.org/10.17605/OSF.IO/WCXT2)]{.pub-links}
+:::
+
+::: pub-entry
+[Non-binary gender representation in Wikidata]{.pub-title} [Metilli, D. & **Paolini, C.**]{.pub-authors} [In Watson, Burlingame & Provo (eds), *Ethics in Linked Data* · Litwin Books · 2023]{.pub-venue} [[PDF](https://metilli.com/wigedi-chapter.pdf)]{.pub-links}
+:::
+
+::: pub-entry
+[In favor of multicultural integration: an experimental design to assess young migrants' literacy rate]{.pub-title} [Pagani, C. & **Paolini, C.**]{.pub-authors} [In Bucciarelli et al. (eds), *Decision Economics: Complexity of Decisions and Decisions for Complexity* (DECON 2019), Advances in Intelligent Systems and Computing 1009 · Springer · 2020]{.pub-venue} [[DOI](https://doi.org/10.1007/978-3-030-38227-8_30)]{.pub-links}
+:::
+
+::: pub-entry
+[The ascending staircase of the metaphor: from a rhetorical device to a method for revealing cognitive processes]{.pub-title} [Pagani, C. & **Paolini, C.**]{.pub-authors} [In Bucciarelli et al. (eds), *Decision Economics: Complexity of Decisions and Decisions for Complexity* (DECON 2019), Advances in Intelligent Systems and Computing 1009 · Springer · 2020]{.pub-venue} [[DOI](https://doi.org/10.1007/978-3-030-38227-8_35)]{.pub-links}
+:::
+
+## Theses
+
+::: pub-entry
+[How much does meaning matter? A fresh look at grammatical alternations]{.pub-title} [**Paolini, C.**]{.pub-authors} [PhD thesis, KU Leuven · 2026]{.pub-venue} [[Data & code](https://doi.org/10.17605/OSF.IO/52F94)]{.pub-links}
+:::
+
+::: pub-entry
+[Applicazione del modello distribuzionale alla rappresentazione a esemplari del significato derivazionale: il caso dei nomi d'azione in -ATA, -ZIONE e -MENTO]{.pub-title} [**Paolini, C.**]{.pub-authors} [MA thesis, University of Pisa · 2020]{.pub-venue} [[Data](https://doi.org/10.5281/zenodo.20049797)]{.pub-links}
+:::
+
+::: pub-entry
+[I deverbali italiani in -ZIONE: indagine distribuzionale-lessicografica degli spazi semantici]{.pub-title} [**Paolini, C.**]{.pub-authors} [BA thesis, University of Pisa · 2016]{.pub-venue}
+:::
+
+Datasets and analysis code are collected on the [Data & Code](data.qmd) page, and conference talks are listed in my [CV](cv.qmd).

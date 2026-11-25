@@ -1,0 +1,17 @@
+---
+title: "Contact"
+toc: false
+---
+
+The best way to reach me is by email. I'm happy to hear about research collaborations, talks, or questions about my data and code.
+
+**Email:** [chiara.paolini@kuleuven.be](mailto:chiara.paolini@kuleuven.be)
+
+**Affiliation:** Faculty of Arts, KU Leuven, Belgium
+
+### Elsewhere online
+
+-   <i class="bi bi-github"></i> GitHub: [github.com/cipaolini](https://github.com/cipaolini)
+-   <i class="bi bi-linkedin"></i> LinkedIn: [Chiara Paolini](https://www.linkedin.com/in/chiara-paolini-604276126/)
+-   <i class="bi bi-person-badge"></i> ORCID: [0000-0001-7961-3624](https://orcid.org/0000-0001-7961-3624)
+-   <i class="bi bi-archive"></i> OSF: [research compendium of my PhD](https://doi.org/10.17605/OSF.IO/52F94)

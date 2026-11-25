@@ -1,0 +1,63 @@
+---
+title: "Data & Code"
+---
+
+I share the data and analysis code behind my research openly, following FAIR principles. Most of my datasets are on [Zenodo](https://zenodo.org) and [OSF](https://osf.io), and my code is on [GitHub](https://github.com/cipaolini).
+
+## Datasets
+
+::: pub-entry
+[Variationist dataset on English clause complementation after *remember*]{.pub-title}
+[**Paolini, C.**, Cuyckens, H. & Szmrecsanyi, B.]{.pub-authors}
+[OSF · 2026]{.pub-venue}
+[Annotated corpus data on verbal complementation after *remember*, together with the full analysis code, results and replication documentation for the De Gruyter chapter.]{.pub-desc}
+[[DOI](https://doi.org/10.17605/OSF.IO/WCXT2)]{.pub-links}
+:::
+
+::: pub-entry
+[WiGeTa-EN: Wikipedia Gender Talks corpus (English), v1.0.0]{.pub-title}
+[**Paolini, C.**, Melis, B., Fioravanti, M. & Metilli, D.]{.pub-authors}
+[Zenodo · 2021]{.pub-venue}
+[A corpus of English Wikipedia community discussions about gender, built within the Wikidata Gender Diversity project.]{.pub-desc}
+[[DOI](https://doi.org/10.5281/zenodo.20054893)]{.pub-links}
+:::
+
+::: pub-entry
+[Annotated datasets of Italian deverbal nouns with suffixes -ZIONE, -MENTO and -ATA, v1.0.0]{.pub-title}
+[**Paolini, C.**]{.pub-authors}
+[Zenodo · 2020]{.pub-venue}
+[Annotated Italian action nouns used for the distributional exemplar modeling of derivational meaning in my MA thesis.]{.pub-desc}
+[[DOI](https://doi.org/10.5281/zenodo.20049797)]{.pub-links}
+:::
+
+## Research compendia
+
+Each compendium contains the data, the full analysis code in R and Python, the results and replication documentation for one study.
+
+::: pub-entry
+[How much does meaning matter? A fresh look at grammatical alternations]{.pub-title}
+[PhD thesis, KU Leuven · 2026]{.pub-venue}
+[[OSF](https://doi.org/10.17605/OSF.IO/52F94)]{.pub-links}
+:::
+
+::: pub-entry
+[The English dative alternation in vector space: how much does meaning matter?]{.pub-title}
+[*Corpus Linguistics and Linguistic Theory* · 2025]{.pub-venue}
+[[OSF](https://osf.io/kfqsr) [Paper](https://doi.org/10.1515/cllt-2024-0095)]{.pub-links}
+:::
+
+::: pub-entry
+[Distributional semantics and the English dative alternation: recipient and theme slots matter (to some extent)]{.pub-title}
+[*Papers of the Linguistic Society of Belgium* 17 · 2023]{.pub-venue}
+[[OSF](https://osf.io/6cdtm) [Paper](https://sites.uclouvain.be/bkl-cbl/wp-content/uploads/2024/01/papersLSB_dative-alternation_paolini-et.al_.pdf)]{.pub-links}
+:::
+
+## Tools I work with
+
+**Distributional & neural models:** Nephosem, word2vec, fastText; transformer models and LLMs via Hugging Face (inference, embedding extraction, systematic prompting, evaluation-set construction)
+
+**NLP pipelines:** spaCy, Stanza and UDPipe for Italian, French and English
+
+**Statistics & visualization:** R (lme4, party, Rtsne, tidyverse), Python (scikit-learn, SciPy, matplotlib, PyTorch, UMAP)
+
+**Formats & standards:** XML, TEI, CoNLL, SQL; reproducible reports with Quarto and R Markdown

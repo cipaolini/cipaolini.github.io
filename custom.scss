@@ -1,0 +1,144 @@
+/*-- scss:defaults --*/
+
+// Fonts: loaded from Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+$font-family-sans-serif: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+$font-family-base:       $font-family-sans-serif;
+$headings-font-family:   $font-family-sans-serif;
+$headings-font-weight:   600;
+$line-height-base:       1.65;
+
+// Palette: aubergine with olive, ochre and orange
+$aubergine: #4a2545;   // navbar, name, headings
+$olive:     #7a7a1e;   // links, subtitle, buttons (dark enough for text)
+$ochre:     #c9a227;   // photo ring, active page in navbar (not for text on white)
+$orange:    #d9772b;   // underlines, bullets, card edges (not for text on white)
+$burnt:     #b4541f;   // button background on hover
+$cream:     #fbf7ef;   // light backgrounds
+
+$primary:   $olive;
+$secondary: $aubergine;
+$success:   $olive;
+
+$link-color:       $olive;
+$link-hover-color: $burnt;
+$headings-color:   $aubergine;
+
+$navbar-bg: $aubergine;
+$navbar-fg: rgba(255, 255, 255, 0.82);
+$navbar-hl: $ochre;
+
+$footer-bg: $cream;
+$footer-fg: $aubergine;
+
+/*-- scss:rules --*/
+
+// Homepage: round photo with an ochre ring
+.quarto-about-jolla .about-image {
+  border: 5px solid $ochre;
+  box-shadow: 0 0 0 6px rgba($ochre, 0.15);
+}
+
+// Name in aubergine, subtitle in olive
+.quarto-about-jolla .about-entity h1,
+.quarto-title h1.title { color: $aubergine; }
+.quarto-about-jolla .about-entity .subtitle,
+p.subtitle { color: $olive; }
+
+// Email / GitHub / LinkedIn / ORCID buttons
+.about-links .about-link {
+  color: $olive !important;
+  border-color: rgba($olive, 0.45) !important;
+  border-radius: 999px !important;
+  padding: 0.35em 0.9em;
+  transition: all 0.15s ease;
+  &:hover {
+    background-color: $burnt;
+    border-color: $burnt !important;
+    color: #fff !important;
+  }
+}
+
+// Section headings with a short orange underline
+.quarto-about-jolla h2,
+main h2 {
+  color: $aubergine;
+  &::after {
+    content: "";
+    display: block;
+    width: 3rem;
+    height: 3px;
+    margin-top: 0.35rem;
+    background: $orange;
+  }
+}
+.quarto-about-jolla h2::after { margin-left: auto; margin-right: auto; }
+
+// Bullet points in orange
+main ul li::marker { color: $orange; }
+
+// Publication and dataset entries: title first, then authors, venue, link buttons
+.pub-entry {
+  border-left: 3px solid $orange;
+  background: $cream;
+  padding: 0.8rem 1.1rem;
+  margin-bottom: 1.1rem;
+  border-radius: 0 6px 6px 0;
+  p:last-child { margin-bottom: 0; }
+
+  .pub-title, .pub-authors, .pub-venue, .pub-desc { display: block; }
+  .pub-title   { font-weight: 600; font-size: 1.08rem; line-height: 1.4; color: $aubergine; margin-bottom: 0.25rem; }
+  .pub-authors { font-size: 0.92rem; color: #555; strong { color: #222; } }
+  .pub-venue   { font-size: 0.92rem; color: #555; }
+  .pub-desc    { font-size: 0.92rem; color: #333; margin-top: 0.35rem; }
+}
+
+// Link buttons (DOI, PDF, Data & code), usable anywhere on the site
+.pub-links {
+  display: block;
+  margin-top: 0.55rem;
+  a {
+    display: inline-block;
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: $olive;
+    border: 1px solid rgba($olive, 0.5);
+    border-radius: 999px;
+    padding: 0.1em 0.75em;
+    margin: 0 0.35rem 0.2rem 0;
+    &:hover { background: $burnt; border-color: $burnt; color: #fff; }
+  }
+}
+
+// Table of contents: active item in burnt orange
+#TOC .nav-link.active, .sidebar nav[role="doc-toc"] ul > li > a.active {
+  color: $burnt !important;
+  border-left-color: $orange !important;
+}
+
+// Callouts (dissertation page)
+.callout-note { border-left-color: $olive !important; }
+
+// Homepage layout: links right under the name, body text left-aligned
+.quarto-about-jolla {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  > .about-image    { order: 1; }
+  > header          { order: 2; }
+  > .about-links    { order: 3; margin-top: 0.4rem; margin-bottom: 1.5rem; }
+  > .about-sep      { display: none; }
+  > main            { order: 4; width: 100%; max-width: 44rem; text-align: left; }
+  main h2           { text-align: center; }
+  main.content :is(p, ul, ol, li) { text-align: left !important; }
+  main.content ul   { padding-left: 1.2rem; }
+}
+
+// One font family for every element
+body, p, li, td, th, .navbar, .nav-link, .about-link, .pub-entry,
+h1, h2, h3, h4, h5, h6, .title, .subtitle, .lead, #TOC, .sidebar, footer {
+  font-family: $font-family-sans-serif !important;
+}
+.navbar-brand { font-weight: 600; }

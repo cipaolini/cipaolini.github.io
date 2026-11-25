@@ -1,0 +1,34 @@
+---
+title: "How much does meaning matter?"
+subtitle: "A fresh look at grammatical alternations · PhD dissertation, KU Leuven (2026)"
+---
+
+::: callout-note
+Defended on **23 February 2026** at KU Leuven.\
+All code and data are openly available in the [OSF research compendium](https://doi.org/10.17605/OSF.IO/52F94).
+:::
+
+## About the project
+
+Speakers often choose between two ways of saying roughly the same thing, such as *give Mary the book* versus *give the book to Mary*. Variationist research has shown that these choices are probabilistic and shaped by many factors, but the meaning of the words involved is hard to capture at scale: manual semantic annotation is slow, coarse and difficult to reproduce.
+
+My dissertation addresses this problem with **distributional semantics**. I developed a workflow that derives semantic predictors from vector-space models and integrates them into multivariate models of grammatical alternation. This makes it possible to ask how much lexical meaning adds to our understanding of variant choice, beyond the well-known formal and contextual predictors.
+
+The workflow was applied to several grammatical alternations, including the dative alternation, the future temporal reference alternation and verbal complementation after *remember*. The data are drawn from spoken and written corpora across registers, including the Spoken BNC2014 and Switchboard.
+
+**Methods:** count-based vector-space models (Nephosem), dimensionality reduction (t-SNE, UMAP), clustering, mixed-effects regression and conditional inference trees and random forests, in Python and R.
+
+## Related publications
+
+- **Paolini, C.** & Szmrecsanyi, B. (accepted). The limits of optionality: modeling the future temporal reference alternation in English. *Language and Cognition*.
+- **Paolini, C.**, Cuyckens, H., Speelman, D. & Szmrecsanyi, B. (2025). The English dative alternation in vector space: how much does meaning matter? *Corpus Linguistics and Linguistic Theory*. [\[Data & code\]](https://osf.io/kfqsr)
+- Szmrecsanyi, B., **Paolini, C.** & Cuyckens, H. (2026). Verbal complementation after *remember* in semantic vector space. De Gruyter. [\[Data & code\]](https://osf.io/wcxt2)
+- **Paolini, C.**, Szmrecsanyi, B., Montes, M. & Cuyckens, H. (2023). Distributional semantics and the English dative alternation: recipient and theme slots matter (to some extent). *Papers of the Linguistic Society of Belgium* 17. [\[Data & code\]](https://osf.io/6cdtm)
+
+## Supervision and jury
+
+**Supervisor:** Prof. Benedikt Szmrecsanyi\
+**Co-supervisors:** Prof. D. Speelman, Prof. H. Cuyckens, Prof. S. Marzo\
+**Jury:** Prof. H. De Smet and Dr K. Heylen (KU Leuven), Prof. A. Lenci (University of Pisa), Prof. S. Digesto (Carleton University)
+
+**Funding:** FWO senior research project G044721N
