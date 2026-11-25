@@ -5,7 +5,7 @@ title: "Publications"
 ## Peer-reviewed journal articles
 
 ::: pub-entry
-[The limits of optionality: modeling the future temporal reference alternation in English]{.pub-title} [**Paolini, C.** & Szmrecsanyi, B.]{.pub-authors} [*Language and Cognition*, Special Issue: Isomorphism and Optionality in Language · ]{.pub-venue}2026[· Open Access]{.pub-venue} [[DOI](https://doi.org/10.1017/langcog.2026.10126) [Data & code](https://osf.io/5d6ec)]{.pub-links}
+[The limits of optionality: modeling the future temporal reference alternation in English]{.pub-title} [**Paolini, C.** & Szmrecsanyi, B.]{.pub-authors} [*Language and Cognition*, Special Issue: Isomorphism and Optionality in Language · 2026 · Open Access]{.pub-venue} [[DOI](https://doi.org/10.1017/langcog.2026.10126) [Data & code](https://osf.io/5d6ec)]{.pub-links}
 :::
 
 ::: pub-entry
